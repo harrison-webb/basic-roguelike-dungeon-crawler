@@ -1,0 +1,6 @@
+Rough order of things to do
+
+1. Get general outlines of .h and .cpp files
+2. Load .txt files/make map
+3. Put player into map/display
+4.

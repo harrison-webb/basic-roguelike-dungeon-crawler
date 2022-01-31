@@ -1,0 +1,1 @@
+This is a basic roguelike dungeoncrawler game that I made in my 1000 level intro CS class at CU Boulder. I coded it in C++ and utilized OOP principles. Combat is not yet functional but functionality includes an intro screen, class selection (wizard/warrior/archer), random level generation, enemy random movement, level navigation, and a player inventory.

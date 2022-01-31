@@ -1,0 +1,27 @@
+What this program needs to be able to do:
+
+-Load in a map from a .txt file and turn it into a 2D array of tiles ✅
+
+-Load enemies, items, food, traps, and stairs into map
+
+-display a menu of options for the player ✅
+
+-let player navigate map ✅
+
+-randomly move enemies
+
+-combat system (attack, dodge, charm
+
+-output to file stats such as enemies killed, level, turns taken
+
+-exp and leveling system
+
+-movement system  ✅
+    adjust visible area that is displayed to user, keeping player in the center ✅
+-player interact w tiles✅
+
+-display players vision range ✅
+
+-respawn enemies    
+    
+    
